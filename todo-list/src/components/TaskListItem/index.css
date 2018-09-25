@@ -1,0 +1,8 @@
+.primary {
+  color: #333;
+}
+
+.done {
+  color: #ccc;
+  text-decoration: line-through;
+}
